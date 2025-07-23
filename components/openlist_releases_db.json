@@ -304,7 +304,7 @@
     "lite": false
   },
   {
-    "filename": "penlist-linux-loong64.tar.gz",
+    "filename": "openlist-linux-loong64.tar.gz",
     "os": "Linux",
     "cpu": "LoongArch 64",
     "desc": "For LoongArch 64 Linux systems using ABI2.0 (new world)",
